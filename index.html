@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+	<div>
+		<table border="1">
+			<tr>
+				<th>No.</th>
+				<th>Nama</th>
+				<th>Video</th>
+				<th>Link</th>
+			</tr>
+			<script type="text/javascript">
+				var xhttp = new XMLHttpRequest();
+
+				xhttp.onreadystatechange = function() {
+					if (this.readyState == 4 && this.status == 200) {
+						var data=JSON.parse(xhttp.responseText);
+						data.forEach(function(element) {
+							document.getElementById("data").innerHTML += "<td>" + element.nomor +"</td><td>" + element.nama +"</td><td>" + element.video +"</td><td>" + element.link +"</td>";
+						});
+					}
+				};
+
+				xhttp.open("GET", "db_video.json", true);
+				xhttp.send();
+			</script>
+			<tr id="data"></tr>
+		</table>
+	</div>
+
+</body>
+</html>

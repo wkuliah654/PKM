@@ -1,0 +1,188 @@
+[
+	{
+		"nomor"	: 1,
+		"nama"	: "Huruf A",
+		"video"	: "video/hutufa.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 2,
+		"nama"	: "Huruf B",
+		"video"	: "video/hutufb.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 3,
+		"nama"	: "Huruf C",
+		"video"	: "video/hutufc.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 4,
+		"nama"	: "Huruf D",
+		"video"	: "video/hutufd.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 5,
+		"nama"	: "Huruf E",
+		"video"	: "video/hutufe.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 6,
+		"nama"	: "Huruf F",
+		"video"	: "video/hutuff.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 7,
+		"nama"	: "Huruf G",
+		"video"	: "video/hutufg.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 8,
+		"nama"	: "Huruf H",
+		"video"	: "video/hutufh.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 9,
+		"nama"	: "Huruf I",
+		"video"	: "video/hutufi.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 10,
+		"nama"	: "Huruf J",
+		"video"	: "video/hutufj.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 11,
+		"nama"	: "Huruf K",
+		"video"	: "video/hutufk.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 12,
+		"nama"	: "Huruf L",
+		"video"	: "video/hutufl.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 13,
+		"nama"	: "Huruf M",
+		"video"	: "video/hutufm.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 14,
+		"nama"	: "Huruf N",
+		"video"	: "video/hutufn.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 15,
+		"nama"	: "Huruf O",
+		"video"	: "video/hutufo.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 16,
+		"nama"	: "Huruf P",
+		"video"	: "video/hutufp.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 17,
+		"nama"	: "Huruf Q",
+		"video"	: "video/hutufq.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 18,
+		"nama"	: "Huruf R",
+		"video"	: "video/hutufr.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 19,
+		"nama"	: "Huruf S",
+		"video"	: "video/hutufs.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 20,
+		"nama"	: "Huruf T",
+		"video"	: "video/hutuft.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 21,
+		"nama"	: "Huruf U",
+		"video"	: "video/hutufu.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 22,
+		"nama"	: "Huruf V",
+		"video"	: "video/hutufv.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 23,
+		"nama"	: "Huruf W",
+		"video"	: "video/hutufw.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 24,
+		"nama"	: "Huruf X",
+		"video"	: "video/hutufx.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 25,
+		"nama"	: "Huruf Y",
+		"video"	: "video/hutufy.mp4",
+		"link"	: "" 
+	},
+	{
+		"nomor"	: 26,
+		"nama"	: "Huruf Z",
+		"video"	: "video/hutufz.mp4",
+		"link"	: "" 
+	}//,
+	// {
+	// 	"nomor"	: ,
+	// 	"nama"	: "",
+	// 	"video"	: "",
+	// 	"link"	: "" 
+	// },
+	// {
+	// 	"nomor"	: ,
+	// 	"nama"	: "",
+	// 	"video"	: "",
+	// 	"link"	: "" 
+	// },
+	// {
+	// 	"nomor"	: ,
+	// 	"nama"	: "",
+	// 	"video"	: "",
+	// 	"link"	: "" 
+	// },
+	// {
+	// 	"nomor"	: ,
+	// 	"nama"	: "",
+	// 	"video"	: "",
+	// 	"link"	: "" 
+	// },
+	// {
+	// 	"nomor"	: ,
+	// 	"nama"	: "",
+	// 	"video"	: "",
+	// 	"link"	: "" 
+	// }
+]
